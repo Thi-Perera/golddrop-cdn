@@ -1,12 +1,34 @@
 {
-  "episode": 19,
-  "season": 1,
-  "match": 20,
+  "episode": 44,
+  "season": 2,
+  "match": 1,
+  "alive": 9,
+  "castCount": 9,
+  "pot": 0,
+  "lives": {
+    "0": 5,
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5,
+    "6": 5,
+    "7": 5,
+    "8": 5
+  },
+  "eliminated": [],
+  "eliminatedNames": [],
   "podio": [
-    "1° YOINK 11pt",
-    "2° FAX 10pt",
-    "3° BIG BALLER 9pt"
+    "1° BIG BALLER 5♥ 0pt",
+    "2° YOINK 5♥ 0pt",
+    "3° CHAD 5♥ 0pt"
   ],
-  "seasons": [],
-  "updatedAt": "2026-07-06T17:50:02.780Z"
+  "seasons": [
+    {
+      "season": 1,
+      "champion": 3,
+      "potWon": 1100
+    }
+  ],
+  "updatedAt": "2026-07-09T19:33:19.457Z"
 }
