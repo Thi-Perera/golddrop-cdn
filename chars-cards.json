@@ -1,0 +1,179 @@
+[
+  {
+    "id": 0,
+    "name": "BIG BALLER",
+    "bio": "Money walks in the door before he does — nobody still around asks where the first stack came from. Fires gold because lead was never expensive enough. Treats every pot like a refund he is owed.",
+    "weapon": "GOLD CANNON",
+    "power": "DEEP POCKETS — built like a vault door, shrugs off hits that would fold anyone else",
+    "funFact": "Has never once picked up a coin quietly.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/bigballer-s1.png" },
+      { "season": 2, "img": "chars/bigballer-s2.png" }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "YOINK",
+    "bio": "If it shines, it was never yours — that is not a threat, it is a policy. Moves like the exits were memorized before the entrances. The league counts its coins twice whenever the fox is in the arena.",
+    "weapon": "TWIN DAGGERS",
+    "power": "FIVE-FINGER DISCOUNT — any coin that hits the floor is already his",
+    "funFact": "Three steals in a row triggers a GOLD RUSH. Ask him how he knows.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/yoink-s1.png" },
+      { "season": 2, "img": "chars/yoink-s2.png" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "CHAD",
+    "bio": "Doesn't dodge. On principle. Some say the principle is older than the league itself. The hammer does all the negotiating.",
+    "weapon": "MAG HAMMER",
+    "power": "NO-DODGE POLICY — takes the hit head on and sends it back with interest",
+    "funFact": "Career dodge count: zero. He checks.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/chad-s1.png" },
+      { "season": 2, "img": "chars/chad-s2.png" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "RNGESUS",
+    "bio": "Prays to nothing and wins anyway. The dice have never blinked — neither has he. Luck isn't a lady in this league, it's a payment plan.",
+    "weapon": "CHAOS DICE",
+    "power": "LOADED LUCK — the odds always seem to land on his side of the table",
+    "funFact": "Nobody has ever seen him blink. The dice have.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/rngesus-s1.png" },
+      { "season": 2, "img": "chars/rngesus-s2.png" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "CHERRY BOMB",
+    "bio": "Anger, but make it splash damage. Every fuse is short and every grudge is shorter. Stand back — that's not advice, it's a radius.",
+    "weapon": "CLUSTER BOMBS",
+    "power": "SPLASH ZONE — everything nearby explodes at least twice",
+    "funFact": "Every bomb has a name. None of the names are printable.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/cherrybomb-s1.png" },
+      { "season": 2, "img": "chars/cherrybomb-s2.png" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "RODZILLA",
+    "bio": "Rage with a perimeter. The spike ring spins whether there's a fight or not — so there's usually a fight. Old scores don't get settled around here, they orbit.",
+    "weapon": "SPIKE FLAIL",
+    "power": "THE RING — a halo of spikes that never, ever stops spinning",
+    "funFact": "The flail keeps spinning after the match ends. Nobody asks it to stop.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/rodzilla-s1.png" },
+      { "season": 2, "img": "chars/rodzilla-s2.png" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "ZOOMER",
+    "bio": "Faster than your attention span, and knows it. Blink twice: the first one is for the dash-in, the second is for the replay. Somewhere out there a storm wants its spear back.",
+    "weapon": "STORM SPEAR",
+    "power": "LIGHTSPEED — closes the gap faster than the camera can pan",
+    "funFact": "Once finished a taunt before starting it. Unconfirmed, but nobody dares confirm it.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/zoomer-s1.png" },
+      { "season": 2, "img": "chars/zoomer-s2.png" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "FAX",
+    "bio": "Steals your homework and grades it F. Every trick in the league is on file — copied, catalogued, improved out of spite. Sources say FAX knows things. FAX confirms nothing.",
+    "weapon": "COPYCAT ORB",
+    "power": "MIRROR MATCH — borrows your best move and returns it worse. For you.",
+    "funFact": "Keeps a copy of every fighter's signature weapon. All graded F.",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/fax-s1.png" },
+      { "season": 2, "img": "chars/fax-s2.png" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "GIOVANNI",
+    "bio": "A hood, two green slits, and a firewall nobody has cracked twice. Spends the winnings on manga and the silences on typing. INFORMATICS!",
+    "weapon": "SWEET IMPERIAL",
+    "power": "FIREWALL — the first hit always bounces. ACCESS DENIED.",
+    "funFact": "His prize gold is filed under \"manga budget\".",
+    "seasonsIn": { "from": 1 },
+    "forms": [
+      { "season": 1, "img": "chars/giovanni-s1.png" },
+      { "season": 2, "img": "chars/giovanni-s2.png" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "XIXXIO",
+    "bio": "Was that XIXXIO at the edge of the frame? Nobody can say — everyone blinked. Spotted?",
+    "weapon": "???",
+    "power": "??? — never where the camera thinks",
+    "funFact": "Check the corner of the shot. Now check it again.",
+    "seasonsIn": { "from": 4 },
+    "forms": [
+      { "season": 4, "img": "chars/xixxio-s4.png" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "SDRUMO",
+    "bio": "Speaks exactly one word and means all of them: miao. The keyboard lost that fight years ago. Runs on pure tilt — full tilt, no brakes.",
+    "weapon": "???",
+    "power": "??? — full tilt is not a mood, it's a gear",
+    "funFact": "miao.",
+    "seasonsIn": { "from": 4 },
+    "forms": [
+      { "season": 4, "img": "chars/sdrumo-s4.png" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "SPID",
+    "bio": "Wears the number 7 like a warning. Barks first, arrives before the bark lands. The zoomies are not a phase.",
+    "weapon": "???",
+    "power": "??? — you'll hear it after it happens",
+    "funFact": "The jersey was earned. Nobody knows in which sport.",
+    "seasonsIn": { "from": 4 },
+    "forms": [
+      { "season": 4, "img": "chars/spid-s4.png" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "D.MONKEY",
+    "bio": "Collects what nobody else can find. The shelf has exactly one gap left — shaped like the GRAIL FIGURE. Will it be filled? PER FORZA!",
+    "weapon": "???",
+    "power": "??? — everything is collectible. Everything.",
+    "funFact": "The GRAIL FIGURE stays sealed in the box. Obviously.",
+    "seasonsIn": { "from": 4 },
+    "forms": [
+      { "season": 4, "img": "chars/dmonkey-s4.png" }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "THEKING",
+    "bio": "A crown, a stream, and a medallion that counts subscribers in real time. Every battle is content. ABBONATEVI!",
+    "weapon": "???",
+    "power": "??? — the chat sees everything first",
+    "funFact": "The medallion has never once counted down.",
+    "seasonsIn": { "from": 4 },
+    "forms": [
+      { "season": 4, "img": "chars/theking-s4.png" }
+    ]
+  }
+]
