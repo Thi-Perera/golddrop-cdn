@@ -6,10 +6,18 @@
     "weapon": "GOLD CANNON",
     "power": "DEEP POCKETS — built like a vault door, shrugs off hits that would fold anyone else",
     "funFact": "Has never once picked up a coin quietly.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/bigballer-s1.png" },
-      { "season": 2, "img": "chars/bigballer-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/bigballer-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/bigballer-s2.png"
+      }
     ]
   },
   {
@@ -19,10 +27,18 @@
     "weapon": "TWIN DAGGERS",
     "power": "FIVE-FINGER DISCOUNT — any coin that hits the floor is already his",
     "funFact": "Three steals in a row triggers a GOLD RUSH. Ask him how he knows.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/yoink-s1.png" },
-      { "season": 2, "img": "chars/yoink-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/yoink-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/yoink-s2.png"
+      }
     ]
   },
   {
@@ -32,10 +48,18 @@
     "weapon": "MAG HAMMER",
     "power": "NO-DODGE POLICY — takes the hit head on and sends it back with interest",
     "funFact": "Career dodge count: zero. He checks.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/chad-s1.png" },
-      { "season": 2, "img": "chars/chad-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/chad-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/chad-s2.png"
+      }
     ]
   },
   {
@@ -45,10 +69,18 @@
     "weapon": "CHAOS DICE",
     "power": "LOADED LUCK — the odds always seem to land on his side of the table",
     "funFact": "Nobody has ever seen him blink. The dice have.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/rngesus-s1.png" },
-      { "season": 2, "img": "chars/rngesus-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/rngesus-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/rngesus-s2.png"
+      }
     ]
   },
   {
@@ -58,10 +90,18 @@
     "weapon": "CLUSTER BOMBS",
     "power": "SPLASH ZONE — everything nearby explodes at least twice",
     "funFact": "Every bomb has a name. None of the names are printable.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/cherrybomb-s1.png" },
-      { "season": 2, "img": "chars/cherrybomb-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/cherrybomb-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/cherrybomb-s2.png"
+      }
     ]
   },
   {
@@ -71,10 +111,18 @@
     "weapon": "SPIKE FLAIL",
     "power": "THE RING — a halo of spikes that never, ever stops spinning",
     "funFact": "The flail keeps spinning after the match ends. Nobody asks it to stop.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/rodzilla-s1.png" },
-      { "season": 2, "img": "chars/rodzilla-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/rodzilla-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/rodzilla-s2.png"
+      }
     ]
   },
   {
@@ -84,10 +132,18 @@
     "weapon": "STORM SPEAR",
     "power": "LIGHTSPEED — closes the gap faster than the camera can pan",
     "funFact": "Once finished a taunt before starting it. Unconfirmed, but nobody dares confirm it.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/zoomer-s1.png" },
-      { "season": 2, "img": "chars/zoomer-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/zoomer-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/zoomer-s2.png"
+      }
     ]
   },
   {
@@ -97,10 +153,18 @@
     "weapon": "COPYCAT ORB",
     "power": "MIRROR MATCH — borrows your best move and returns it worse. For you.",
     "funFact": "Keeps a copy of every fighter's signature weapon. All graded F.",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/fax-s1.png" },
-      { "season": 2, "img": "chars/fax-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/fax-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/fax-s2.png"
+      }
     ]
   },
   {
@@ -110,22 +174,35 @@
     "weapon": "SWEET IMPERIAL",
     "power": "FIREWALL — the first hit always bounces. ACCESS DENIED.",
     "funFact": "His prize gold is filed under \"manga budget\".",
-    "seasonsIn": { "from": 1 },
+    "seasonsIn": {
+      "from": 1
+    },
     "forms": [
-      { "season": 1, "img": "chars/giovanni-s1.png" },
-      { "season": 2, "img": "chars/giovanni-s2.png" }
+      {
+        "season": 1,
+        "img": "chars/giovanni-s1.png"
+      },
+      {
+        "season": 2,
+        "img": "chars/giovanni-s2.png"
+      }
     ]
   },
   {
     "id": 9,
     "name": "XIXXIO",
-    "bio": "Was that XIXXIO at the edge of the frame? Nobody can say — everyone blinked. Spotted?",
+    "bio": "Literally a smiley face — the same smile in every photo, and he is in EVERY photo. Was that XIXXIO at the edge of the frame? Nobody can say — everyone blinked. Spotted?",
     "weapon": "???",
     "power": "??? — never where the camera thinks",
     "funFact": "Check the corner of the shot. Now check it again.",
-    "seasonsIn": { "from": 4 },
+    "seasonsIn": {
+      "from": 4
+    },
     "forms": [
-      { "season": 4, "img": "chars/xixxio-s4.png" }
+      {
+        "season": 4,
+        "img": "chars/xixxio-s4.png"
+      }
     ]
   },
   {
@@ -135,45 +212,65 @@
     "weapon": "???",
     "power": "??? — full tilt is not a mood, it's a gear",
     "funFact": "miao.",
-    "seasonsIn": { "from": 4 },
+    "seasonsIn": {
+      "from": 4
+    },
     "forms": [
-      { "season": 4, "img": "chars/sdrumo-s4.png" }
+      {
+        "season": 4,
+        "img": "chars/sdrumo-s4.png"
+      }
     ]
   },
   {
     "id": 11,
-    "name": "SPID",
-    "bio": "Wears the number 7 like a warning. Barks first, arrives before the bark lands. The zoomies are not a phase.",
-    "weapon": "???",
-    "power": "??? — you'll hear it after it happens",
-    "funFact": "The jersey was earned. Nobody knows in which sport.",
-    "seasonsIn": { "from": 4 },
+    "name": "MUSASHO",
+    "bio": "Two swords from a Live Lands dojo nobody streams anymore. Speaks only in aphorisms, moves only when it is already over. You flinched. It was enough.",
+    "weapon": "SECOND SWORD",
+    "power": "IAI — he stops, he waits, and the cut has already happened",
+    "funFact": "The second sword has never been drawn. Fans keep the count: zero.",
+    "seasonsIn": {
+      "from": 4
+    },
     "forms": [
-      { "season": 4, "img": "chars/spid-s4.png" }
+      {
+        "season": 4,
+        "img": "chars/musasho-s4.png"
+      }
     ]
   },
   {
     "id": 12,
     "name": "D.MONKEY",
-    "bio": "Collects what nobody else can find. The shelf has exactly one gap left — shaped like the GRAIL FIGURE. Will it be filled? PER FORZA!",
+    "bio": "A brown monkey with enormous ears, a blond fringe and a permanent appraiser’s grimace. Collects what nobody else can find. The shelf has exactly one gap left — shaped like the GRAIL FIGURE. Will it be filled? PER FORZA!",
     "weapon": "???",
     "power": "??? — everything is collectible. Everything.",
     "funFact": "The GRAIL FIGURE stays sealed in the box. Obviously.",
-    "seasonsIn": { "from": 4 },
+    "seasonsIn": {
+      "from": 4
+    },
     "forms": [
-      { "season": 4, "img": "chars/dmonkey-s4.png" }
+      {
+        "season": 4,
+        "img": "chars/dmonkey-s4.png"
+      }
     ]
   },
   {
     "id": 13,
     "name": "THEKING",
-    "bio": "A crown, a stream, and a medallion that counts subscribers in real time. Every battle is content. ABBONATEVI!",
+    "bio": "A crown, a stream, and a floating ticker counting subscribers in real time. Every battle is content. ABBONATEVI!",
     "weapon": "???",
     "power": "??? — the chat sees everything first",
-    "funFact": "The medallion has never once counted down.",
-    "seasonsIn": { "from": 4 },
+    "funFact": "When the content hits, he declares it GAS. Highest rating on record: GASATISSIMO.",
+    "seasonsIn": {
+      "from": 4
+    },
     "forms": [
-      { "season": 4, "img": "chars/theking-s4.png" }
+      {
+        "season": 4,
+        "img": "chars/theking-s4.png"
+      }
     ]
   }
 ]
