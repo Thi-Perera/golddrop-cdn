@@ -1,0 +1,51 @@
+{
+  "ep": 10,
+  "grade": "S",
+  "seed": 83486594,
+  "pair": [
+    0,
+    1
+  ],
+  "pairNames": [
+    "BIG BALLER",
+    "YOINK"
+  ],
+  "captions": {
+    "salt": 0,
+    "hookKey": "comeback",
+    "title": "GOLDDROPPERZ EP.10 — BIG BALLER vs YOINK",
+    "tiktok": "BIG BALLER 🤑 vs YOINK 🦊 · the greatest robbery in GOLDDROPPERZ history. caught in 4k, zero remorse.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gamingontiktok #foryoupage #indiegame #golden",
+    "reels": "BIG BALLER 🤑 vs YOINK 🦊 · the greatest robbery in GOLDDROPPERZ history. caught in 4k, zero remorse.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gamingreels #neon #explorepage #autobattler",
+    "shorts": "GOLDDROPPERZ EP.10 — BIG BALLER vs YOINK\nthe greatest robbery in GOLDDROPPERZ history. caught in 4k, zero remorse. — call the winner in the comments. no cowards. #golddropperz #shorts #battle #indiegame #satisfying",
+    "telegramPreview": "🎬 EP.10 · BIG BALLER vs YOINK · voto S\n[privato] vince YOINK 1-2\nGancio: \"the greatest robbery in GOLDDROPPERZ history. caught in 4k, zero remorse.\"\nTitolo: GOLDDROPPERZ EP.10 — BIG BALLER vs YOINK"
+  },
+  "winner": 1,
+  "season": {
+    "season": 1,
+    "match": 10
+  },
+  "assetUrl": "https://github.com/Thi-Perera/golddrop-cdn/releases/download/ep-0010/video.mp4",
+  "releaseId": 351808231,
+  "tag": "ep-0010",
+  "queuedAt": "2026-07-09T22:18:10.589Z",
+  "publishedAt": "2026-07-15T17:54:45.056Z",
+  "links": {
+    "youtube": {
+      "url": "https://youtube.com/shorts/jSERCwwwJ-g",
+      "id": "jSERCwwwJ-g",
+      "coverSet": true
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/reel/17903862939457402/",
+      "id": "17903862939457402",
+      "coverSet": true
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com (draft inbox)",
+      "id": "v_inbox_file~v2.7662814279283853334",
+      "draft": true,
+      "coverSet": true,
+      "coverNote": "frame suggerito"
+    }
+  }
+}
