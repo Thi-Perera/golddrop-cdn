@@ -1,31 +1,31 @@
 {
   "ep": 33,
-  "grade": "S",
-  "seed": 83543513,
+  "grade": "A",
+  "seed": 85082571,
   "pair": [
-    1,
-    4
+    0,
+    6
   ],
   "pairNames": [
-    "YOINK",
-    "CHERRY BOMB"
+    "BIG BALLER",
+    "ZOOMER"
   ],
   "captions": {
     "salt": 0,
-    "hookKey": "elimination",
-    "title": "GOLDDROPPERZ EP.33 — YOINK vs CHERRY BOMB",
-    "tiktok": "YOINK 🦊 vs CHERRY BOMB 💣 · tonight a last life hits the pot. YOINK, it was... something.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gamingontiktok #foryoupage #indiegame #golden",
-    "reels": "YOINK 🦊 vs CHERRY BOMB 💣 · tonight a last life hits the pot. YOINK, it was... something.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gamingreels #neon #explorepage #autobattler",
-    "shorts": "GOLDDROPPERZ EP.33 — YOINK vs CHERRY BOMB\ntonight a last life hits the pot. YOINK, it was... something. — call the winner in the comments. no cowards. #golddropperz #shorts #battle #indiegame #satisfying",
-    "telegramPreview": "🎬 EP.33 · YOINK vs CHERRY BOMB · voto S\n[privato] vince CHERRY BOMB 1-2\nGancio: \"tonight a last life hits the pot. YOINK, it was... something.\"\nTitolo: GOLDDROPPERZ EP.33 — YOINK vs CHERRY BOMB"
+    "hookKey": "deathmatch",
+    "title": "GOLDDROPPERZ EP.33 — BIG BALLER vs ZOOMER",
+    "tiktok": "BIG BALLER 🤑 vs ZOOMER ⚡ · it goes to DEATHMATCH. someone is getting humbled on camera.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gaming #battlesim #fyp #foryou #satisfying",
+    "reels": "BIG BALLER 🤑 vs ZOOMER ⚡ · it goes to DEATHMATCH. someone is getting humbled on camera.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gaming #battlesim #reels #satisfying #neon",
+    "shorts": "GOLDDROPPERZ EP.33 — BIG BALLER vs ZOOMER\nit goes to DEATHMATCH. someone is getting humbled on camera. — call the winner in the comments. no cowards. #golddropperz #shorts #gaming #battle #battlesim",
+    "telegramPreview": "🎬 EP.33 · BIG BALLER vs ZOOMER · voto A\n[privato] vince BIG BALLER 1-0\nGancio: \"it goes to DEATHMATCH. someone is getting humbled on camera.\"\nTitolo: GOLDDROPPERZ EP.33 — BIG BALLER vs ZOOMER"
   },
-  "winner": 4,
+  "winner": 0,
   "season": {
     "season": 1,
     "match": 33
   },
   "assetUrl": "https://github.com/Thi-Perera/golddrop-cdn/releases/download/ep-0033/video.mp4",
-  "releaseId": 351811738,
+  "releaseId": 360175370,
   "tag": "ep-0033",
-  "queuedAt": "2026-07-09T22:29:32.794Z"
+  "queuedAt": "2026-07-27T02:25:52.338Z"
 }
