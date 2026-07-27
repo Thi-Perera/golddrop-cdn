@@ -1,31 +1,31 @@
 {
   "ep": 34,
-  "grade": "S",
-  "seed": 83544207,
+  "grade": "A",
+  "seed": 85083550,
   "pair": [
-    0,
-    3
+    1,
+    5
   ],
   "pairNames": [
-    "BIG BALLER",
-    "RNGESUS"
+    "YOINK",
+    "RODZILLA"
   ],
   "captions": {
     "salt": 0,
-    "hookKey": "elimination",
-    "title": "GOLDDROPPERZ EP.34 — BIG BALLER vs RNGESUS",
-    "tiktok": "BIG BALLER 🤑 vs RNGESUS 🍀 · BIG BALLER ran out of lives ON CAMERA. we kept the tape.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gaming #aibattle #fyp #foryou #satisfying",
-    "reels": "BIG BALLER 🤑 vs RNGESUS 🍀 · BIG BALLER ran out of lives ON CAMERA. we kept the tape.\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gaming #aibattle #reels #satisfying #neon",
-    "shorts": "GOLDDROPPERZ EP.34 — BIG BALLER vs RNGESUS\nBIG BALLER ran out of lives ON CAMERA. we kept the tape. — call the winner in the comments. no cowards. #golddropperz #shorts #gaming #battle #aibattle",
-    "telegramPreview": "🎬 EP.34 · BIG BALLER vs RNGESUS · voto S\n[privato] vince RNGESUS 1-2\nGancio: \"BIG BALLER ran out of lives ON CAMERA. we kept the tape.\"\nTitolo: GOLDDROPPERZ EP.34 — BIG BALLER vs RNGESUS"
+    "hookKey": "plain",
+    "title": "GOLDDROPPERZ EP.34 — YOINK vs RODZILLA",
+    "tiktok": "YOINK 🦊 vs RODZILLA 😡 · a match with consequences (and casualties of ego)\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #gaming #autobattler #arcade #fypシ #viral #satisfying",
+    "reels": "YOINK 🦊 vs RODZILLA 😡 · a match with consequences (and casualties of ego)\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #gaming #reelsvideo #arcade #satisfyingvideo #indiegame",
+    "shorts": "GOLDDROPPERZ EP.34 — YOINK vs RODZILLA\na match with consequences (and casualties of ego) — call the winner in the comments. no cowards. #golddropperz #shorts #arcade #autobattler #gamingshorts",
+    "telegramPreview": "🎬 EP.34 · YOINK vs RODZILLA · voto A\n[privato] vince RODZILLA 0-1\nGancio: \"a match with consequences (and casualties of ego)\"\nTitolo: GOLDDROPPERZ EP.34 — YOINK vs RODZILLA"
   },
-  "winner": 3,
+  "winner": 5,
   "season": {
     "season": 1,
     "match": 34
   },
   "assetUrl": "https://github.com/Thi-Perera/golddrop-cdn/releases/download/ep-0034/video.mp4",
-  "releaseId": 351811866,
+  "releaseId": 360175438,
   "tag": "ep-0034",
-  "queuedAt": "2026-07-09T22:30:09.313Z"
+  "queuedAt": "2026-07-27T02:26:10.668Z"
 }
