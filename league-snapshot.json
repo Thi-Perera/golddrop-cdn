@@ -1,39 +1,28 @@
 {
-  "episode": 89,
-  "season": 3,
-  "match": 2,
+  "episode": 44,
+  "season": 1,
+  "match": 45,
   "alive": 9,
   "castCount": 9,
-  "pot": 25,
+  "pot": 525,
   "lives": {
-    "0": 4,
-    "1": 4,
-    "2": 4,
-    "3": 4,
-    "4": 4,
-    "5": 4,
-    "6": 4,
-    "7": 4,
-    "8": 3
+    "0": 95,
+    "1": 95,
+    "2": 96,
+    "3": 98,
+    "4": 98,
+    "5": 98,
+    "6": 97,
+    "7": 97,
+    "8": 96
   },
   "eliminated": [],
   "eliminatedNames": [],
   "podio": [
-    "1° CHAD 4♥ 3pt",
-    "2° BIG BALLER 4♥ 0pt",
-    "3° YOINK 4♥ 0pt"
+    "1° RNGESUS 98♥ 23pt",
+    "2° CHERRY BOMB 98♥ 20pt",
+    "3° RODZILLA 98♥ 20pt"
   ],
-  "seasons": [
-    {
-      "season": 1,
-      "champion": 3,
-      "potWon": 1100
-    },
-    {
-      "season": 2,
-      "champion": 8,
-      "potWon": 1100
-    }
-  ],
-  "updatedAt": "2026-07-11T21:41:56.019Z"
+  "seasons": [],
+  "updatedAt": "2026-07-27T02:29:31.453Z"
 }
