@@ -1,31 +1,31 @@
 {
   "ep": 42,
-  "grade": "S",
-  "seed": 83550929,
+  "grade": "A",
+  "seed": 85091584,
   "pair": [
-    3,
-    5
+    7,
+    8
   ],
   "pairNames": [
-    "RNGESUS",
-    "RODZILLA"
+    "FAX",
+    "GIOVANNI"
   ],
   "captions": {
     "salt": 0,
-    "hookKey": "deathmatch",
-    "title": "GOLDDROPPERZ EP.42 — RNGESUS vs RODZILLA",
-    "tiktok": "RNGESUS 🍀 vs RODZILLA 😡 · 1-1... and then the arena said \"cook them BOTH\".\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gamingontiktok #foryoupage #indiegame #golden",
-    "reels": "RNGESUS 🍀 vs RODZILLA 😡 · 1-1... and then the arena said \"cook them BOTH\".\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #battle #gamingreels #neon #explorepage #autobattler",
-    "shorts": "GOLDDROPPERZ EP.42 — RNGESUS vs RODZILLA\n1-1... and then the arena said \"cook them BOTH\". — call the winner in the comments. no cowards. #golddropperz #shorts #battle #indiegame #satisfying",
-    "telegramPreview": "🎬 EP.42 · RNGESUS vs RODZILLA · voto S\n[privato] vince RNGESUS 2-1\nGancio: \"1-1... and then the arena said \"cook them BOTH\".\"\nTitolo: GOLDDROPPERZ EP.42 — RNGESUS vs RODZILLA"
+    "hookKey": "comeback",
+    "title": "GOLDDROPPERZ EP.42 — FAX vs GIOVANNI",
+    "tiktok": "FAX 👾 vs GIOVANNI 🔒 · a comeback so disrespectful it should be a crime\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #gaming #autobattler #arcade #fypシ #viral #satisfying",
+    "reels": "FAX 👾 vs GIOVANNI 🔒 · a comeback so disrespectful it should be a crime\nCall the winner BEFORE you watch. wrong picks get ratioed 👇\n#golddropperz #gaming #reelsvideo #arcade #satisfyingvideo #indiegame",
+    "shorts": "GOLDDROPPERZ EP.42 — FAX vs GIOVANNI\na comeback so disrespectful it should be a crime — call the winner in the comments. no cowards. #golddropperz #shorts #arcade #autobattler #gamingshorts",
+    "telegramPreview": "🎬 EP.42 · FAX vs GIOVANNI · voto A\n[privato] vince GIOVANNI 0-1\nGancio: \"a comeback so disrespectful it should be a crime\"\nTitolo: GOLDDROPPERZ EP.42 — FAX vs GIOVANNI"
   },
-  "winner": 3,
+  "winner": 8,
   "season": {
     "season": 1,
     "match": 42
   },
-  "assetUrl": "https://github.com/Thi-Perera/golddrop-cdn/releases/download/ep-0042/video.mp4",
-  "releaseId": 351812889,
+  "assetUrl": "https://github.com/Thi-Perera/golddrop-cdn/releases/download/untagged-62e68d65abe89389614f/video.mp4",
+  "releaseId": 360175978,
   "tag": "ep-0042",
-  "queuedAt": "2026-07-09T22:34:10.575Z"
+  "queuedAt": "2026-07-27T02:28:47.387Z"
 }
